@@ -1,2 +1,2 @@
-# pryoecto-topicos
+# proyecto-topicos
 App de recomendaciones de canciones
